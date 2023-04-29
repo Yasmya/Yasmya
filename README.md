@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmya&layout=compact)](https://github.com/Yasmya/github-readme-stats)
 
-![Snake animation](https://github.com/Yasmya/Yasmya/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yasmin+Yuri;I'm+18+years+old;I'm+from+Brazil;Programming+student;I+am+systems+development+technologist;studying+computer+science+college;Junior+Mobile+and+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -56,11 +54,6 @@
 
 ##
 
-<div align="center">
- 
-![Snake animation](https://github.com/https-shini/rafaballerini.git)
-  
-</div>
 
 ##
 
