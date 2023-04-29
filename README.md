@@ -58,7 +58,7 @@
 
 <div align="center">
  
-![Snake animation](https://github.com/Yasmya/rafaballerini.git)
+![Snake animation](https://github.com/https-shini/rafaballerini.git)
   
 </div>
 
