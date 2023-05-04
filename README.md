@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yasmin+Yuri;I'm+18+years+old;I'm+from+Brazil;Programming+student;I+am+systems+development+technologist;studying+computer+science+college;Junior+Mobile+and+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Oie,+meu+nome+é+Yasmin;Tenho+18+anos;Cursando+Sistemas+de+Informação;SPTecher+estudante;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 <br><br>
 
 <h1 align="center">✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 <img src"https://raw.githubusercontent.com/gist/Yasmya/7ac2170ef44ce060eccd8e49658969b4/raw/c6ee92e407d7ae958d3bdae64df345839513c1ab/githubcard.svg" width="10px">
