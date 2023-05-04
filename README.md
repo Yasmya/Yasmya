@@ -3,7 +3,7 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💻 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Sistemas da Informação na <a href="link da sua faculdade">SPTech</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Node.JS.
 <img src="https://64.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gifv" width="100%" >
