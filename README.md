@@ -18,9 +18,6 @@
   <div align="center">
 <img src="https://64.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gifv" width="50%" height="250px" >
 </div>
-
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
-
    
 ## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
   
