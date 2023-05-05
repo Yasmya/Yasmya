@@ -8,16 +8,19 @@
   
 ![](https://komarev.com/ghpvc/?username=Yasmya&color=006bed)
 
+  
 ## :woman: &nbsp; ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
 
 - 💻 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de Software.
 - 🎓 &nbsp; Cursando Sistemas de Informação na SPTech
 - 🌱 &nbsp; Aprendendo mais sobre Algoritmo, Banco de Dados, Arquitetura Computacional e Tecnologia da Informação.
+  
+  <div align="center">
 <img src="https://64.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gifv" width="50%" height="250px" >
+</div>
 
-   <div align="center">
 <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
-  </div>
+
    
 ## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
   
