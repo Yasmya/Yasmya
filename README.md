@@ -4,7 +4,7 @@
 <br><br>
 
 <h1 align="center">✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 <img src"https://raw.githubusercontent.com/gist/Yasmya/7ac2170ef44ce060eccd8e49658969b4/raw/c6ee92e407d7ae958d3bdae64df345839513c1ab/githubcard.svg" width="10px">
-  <h3 align="center">∆ sᴜᴍᴍᴇʀᴛɪᴍᴇ sᴀᴅɴᴇsss | ☆</h3>
+  <h3 align="center">⋆｡ﾟ☁︎｡⋆｡ sᴜᴍᴍᴇʀᴛɪᴍᴇ sᴀᴅɴᴇsss ﾟ☾ ﾟ｡⋆</h3>
   
 ![](https://komarev.com/ghpvc/?username=Yasmya&color=006bed)
 
