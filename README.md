@@ -38,6 +38,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![Chart.Js](https://img.shields.io/badge/ChartJs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)&nbsp;
 ![Node.Js](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/trello-323330?style=for-the-badge&logo=trello&logoColor=blue)&nbsp;
 
 </div>
 
