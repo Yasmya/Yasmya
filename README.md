@@ -8,9 +8,9 @@
   
 ![](https://komarev.com/ghpvc/?username=Yasmya&color=006bed)
 
-  <div align="center">
-## :woman: &nbsp; ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
 
+## :woman: &nbsp; ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
+  <div align="center">
 - 💻 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de Software.
 - 🎓 &nbsp; Cursando Sistemas de Informação na SPTech
 - 🌱 &nbsp; Aprendendo mais sobre Algoritmo, Banco de Dados, Arquitetura Computacional e Tecnologia da Informação.
