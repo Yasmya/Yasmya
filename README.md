@@ -5,7 +5,7 @@
   <h3 align="center">⋆｡ﾟ☁︎｡⋆｡ sᴜᴍᴍᴇʀᴛɪᴍᴇ sᴀᴅɴᴇsss ﾟ☾ ﾟ｡⋆</h3>
 
 
-## 🍒 &nbsp; ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
+## ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
 
 - 💻 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de Software.
 - 🎓 &nbsp; Cursando Sistemas de Informação na SPTech
