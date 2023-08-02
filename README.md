@@ -9,7 +9,7 @@
 
 - 💻 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de Software.
 - 🎓 &nbsp; Cursando Sistemas de Informação na SPTech
-- 🌱 &nbsp; Aprendendo mais sobre Algoritmo, Banco de Dados, Arquitetura Computacional e Tecnologia da Informação.  
+- 🌱 &nbsp; Aprendendo mais 🐿️
   
    <div align="center">
      
